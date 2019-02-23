@@ -1,0 +1,6 @@
+hash: fb00b3cc3b85871089f59c4e403a2dbcc16b76cd1bf083f14437abbffcc25fb8
+updated: 2017-01-18T19:04:53.074660361+08:00
+imports:
+- name: github.com/muesli/cache2go
+  version: 9743c8255d443f458c0ae3957363a887583759f8
+testImports: []

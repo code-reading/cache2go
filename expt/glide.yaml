@@ -1,0 +1,4 @@
+package: github.com/srcodelab/cache2go/expt
+import:
+- package: github.com/muesli/cache2go
+  version: ^0.1.0
